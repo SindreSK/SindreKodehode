@@ -12,14 +12,14 @@ main{
     margin-top: 25px;
     padding: 25px;
 }
-header{
-    font-size: 78px;
+h1{
     text-align: center;
-    color: #2e7ad3;
-    margin-top: 45px;
-    
+    color: #2a7de3;
+    font-size: 48px;
 }
-
+h2{
+    font-size: 32px;
+}
 
 .intro{
     font-size: 32px;
