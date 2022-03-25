@@ -27,7 +27,7 @@ h3{
 header {
 
     background-color: #588C94;
-    color: black7;
+    color: black;
     text-align: center;
     padding: 20 0 20 0;
     margin-bottom: 80px;
@@ -62,10 +62,23 @@ gap: 10px;
     margin: 0;
     border:solid gray 5px;
     padding: 50px;
+    background-image: url(mercury.jpg);
+    background-size: contain;
+    background-size: cover;
+    border-radius: 80%;
+
+
+
+}
+.kolonne3{
+
+margin: 0;
+    border:solid gray 5px;
+    padding: 50px;
     background-image: url(kaffe.jpg);
     background-size: contain;
     background-size: cover;
-
+    border-radius: 80%;
 
 
 }
