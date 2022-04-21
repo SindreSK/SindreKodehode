@@ -1,0 +1,33 @@
+h1 {
+    font-size: 36px;
+}
+ul li::marker{
+color: lightblue;
+font-size: 40px;
+}
+ul li::before{
+    content: "😀";
+}
+ul li::after {
+    content: "😀";
+}
+ul li{
+    font-size: 20px;
+}
+.first::first-line{
+    color:red;
+    background-color: blue;
+    }
+.letter::first-letter{
+color:purple;
+background: red;
+font-size: 23px;
+}
+ul li::marker{
+    background-color: deeppink;
+}
+.select::selection{
+    color:antiquewhite;
+    background-color: deeppink;
+    
+}
